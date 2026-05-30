@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DishGuideApp.Tests/DishGuideApp.Tests.csproj" Id="a9a0c849-cb17-41cc-9f27-2de72526686b" />
+  <Project Path="LB_3/DishGuideApp.csproj" />
+</Solution>

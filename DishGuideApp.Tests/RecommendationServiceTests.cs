@@ -7,7 +7,7 @@ namespace DishGuideApp.Tests
     [TestFixture]
     public class RecommendationServiceTests
     {
-        private RecommendationService _service;
+        private RecommendationService _service;  
 
         [SetUp]
         public void Setup()

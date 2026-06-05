@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DishGuideApp
+namespace DishGuideApp  
 {
     // Твої базові моделі даних
     public class Dish { public string Name { get; set; } public double Rating { get; set; } }
